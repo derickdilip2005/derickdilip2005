@@ -20,7 +20,7 @@
 
 ###
 
-<h3 align="left">💡 Tech Stack</h3>
+<h3 align="left">🔧 My Tech Stack</h3>
 
 ###
 
@@ -116,7 +116,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=derickdilip2005&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=derickdilip2005&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=derickdilip2005&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
 ###
@@ -125,7 +124,7 @@
 
 ###
 
-<h3 align="left">🏆 Trophies</h3>
+<h3 align="left">🏆 My Trophies</h3>
 
 ###
 
@@ -139,13 +138,13 @@
 
 ###
 
-<h3 align="left">🌟 Contributions</h3>
+<h3 align="left">🌟 My Contributions</h3>
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/derickdilip2005/derickdilip2005/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=derickdilip2005&radius=16&theme=github-dark&area=true&order=5&hide_border=false&custom_title=Contributions%20Graph" height="300" alt="activity-graph graph"  />
+</div>
 
 ###
 
