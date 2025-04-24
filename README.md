@@ -8,6 +8,8 @@
 
 <p align="left">🚀 Aspiring Full-stack Developer<br>🌱 Currently learning Machine Learning, Flask<br>👯 I’m looking to collaborate on Full-stack and Machine Learning Projects<br>📫 Reach out to me -  derickdilip1234@gmail.com</p>
 
+<br clear="both">
+
 ###
 
 <hr style="border: 0; height: 5px; background-color: grey; margin-left: 4cm; margin-right: 4cm;">
@@ -86,9 +88,12 @@
 
 ###
 
+<br clear="both">
+
 <hr style="border: 0; height: 5px; background-color: grey; margin-left: 4cm; margin-right: 4cm;">
 
 ###
+<br clear="both">
 
 <h3 align="left">🌐 Let's Connect</h3>
 
@@ -103,11 +108,15 @@
   </a>
 </div>
 
+<br clear="both">
+
 ###
 
 <hr style="border: 0; height: 5px; background-color: grey; margin-left: 4cm; margin-right: 4cm;">
 
 ###
+
+<br clear="both">
 
 <h3 align="left">📊 My Stats</h3>
 
@@ -118,11 +127,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=derickdilip2005&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+<br clear="both">
+
 ###
 
 <hr style="border: 0; height: 5px; background-color: grey; margin-left: 4cm; margin-right: 4cm;">
 
 ###
+
+<br clear="both">
 
 <h3 align="left">🏆 My Trophies</h3>
 
@@ -134,9 +147,13 @@
 
 ###
 
+<br clear="both">
+
 <hr style="border: 0; height: 5px; background-color: grey; margin-left: 4cm; margin-right: 4cm;">
 
 ###
+
+<br clear="both">
 
 <h3 align="left">🌟 My Contributions</h3>
 
@@ -145,6 +162,8 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=derickdilip2005&radius=16&theme=github-dark&area=true&order=5&hide_border=false&custom_title=Contributions%20Graph" height="300" alt="activity-graph graph"  />
 </div>
+
+<br clear="both">
 
 ###
 
