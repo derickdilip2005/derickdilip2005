@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🚀 Aspiring Full-stack Developer<br>🌱 Currently learning Machine Learning, Flask<br>👯 I’m looking to collaborate on Full-stack and Machine Learning Projects<br>📫 Reach out to me -  derickdilip1234@gmail.com</p>
+<p align="left">🚀 Aspiring Full-stack Developer<br>👯 I’m looking to collaborate on Full-stack and Machine Learning Projects<br>📫 Reach out to me -  derickdilip1234@gmail.com</p>
 
 <br clear="both">
 
